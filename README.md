@@ -5,7 +5,7 @@ It has 6 keys and a rotary encoder, all connected to the Seeed Studio Xiao
 ## PCB
 Here's a picture of my PCB and Schematics:
 ![Schematic](images/Schematic.png)
-*Electrical schematic showing the key matrix, diodes, rotary encoder, and microcontroller
+*Electrical schematic showing the key matrix, diodes, rotary encoder, and microcontroller*
 ![PCB Layout](images/PCB.png)
 *Custom PCB layout designed for a 2×3 key matrix with a rotary encoder and XIAO RP2040.*
 
